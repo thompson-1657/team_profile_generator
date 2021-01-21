@@ -1,0 +1,55 @@
+.team-area{
+margin: 5px;
+flex: none;
+flex-wrap: inherit;
+}
+
+.employee-card {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-width: 3px;
+    border-color: white;
+    box-shadow: -5px 10px 10px grey;
+}
+
+.employee-card:hover{ position: relative; 
+    top: -5px;} 
+
+.jumbotron {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/58f8719c20099e4ee8f00783/1538380838731-CEM0Z71X8AXAJG07MPKM/ke17ZwdGBToddI8pDm48kEpF2lptGuxDReiKcVMPbmR7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0ooWhOa5cxQSJsU3rXf8luVi8CZsBTpJO3RpsufHUTIS6zFvlOde1o12z2ix0Te8jg/Beth-Oct-Wallpaper-2018-Small-File.jpg?format=1500w");
+    box-shadow: -5px 10px 10px grey;
+}
+
+h1{
+    font-weight: 900;
+    font-weight: bold;
+    font-size: 55px;
+    color: white;
+}
+
+.card-header {
+    background-color: #f38eb8;
+}
+
+a {
+    color: #f05d95;
+}
+
+body {
+    background-color:#badcce;
+}
+
+.card-body {
+    background-color: #badcce;
+}
+
+.list-group-item {
+    background-color: #badcce;
+    border-color: white;
+}
+
+h2,
+h3 {
+    color: white;
+}
